@@ -96,22 +96,6 @@ Contributed to housing policy advocacy in St. Paul, including engagement with ci
 
 </section>
 
-<section class="cv-section" markdown="1">
-
-### Policy Engagement
-
-<div class="cv-entry" markdown="1">
-
-**Minnesota Legislature Testimony**
-
-February 2024
-
-Testified on HF4246, state-level zoning reform legislation, before the Housing Finance and Policy Committee.
-
-</div>
-
-</section>
-
 ---
 
 <figure class="page-artwork-large">
