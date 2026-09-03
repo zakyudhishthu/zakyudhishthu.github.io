@@ -19,7 +19,7 @@ title: About
 
 I graduated from Macalester College in 2024 with a major in Economics and a minor in Music. During my time in St. Paul, I became deeply engaged with Twin Cities housing policy, writing on these topics for a variety of local media outlets. I also had first-hand engagement with state and local public policy, serving as a board member with Sustain Saint Paul, interning with local community development organizations, and volunteering in support of multiple urbanist-oriented policy efforts.
 
-I then lived in Chicago for two years working as a research assistant at the Federal Reserve. While I was in Chicago, I started a Substack about housing policy and urban economics [Pencilling Out](https://pencillingout.substack.com).
+I then lived in Chicago for two years working as a research assistant at the Federal Reserve. While I was in Chicago, I started [Pencilling Out](https://pencillingout.substack.com), a Substack about housing policy and urban economics.
 
 My writing has often spanned three forms:
 - research-focused writing looking at demographic trends, housing data, and academic research
