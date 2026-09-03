@@ -17,11 +17,14 @@ title: About
 
 ## What I Do
 
-I analyze housing markets and urban policy using various public datasets and data analysis tools, primarily using R. I aspire to combine rigorous quantitative analysis with accessible policy writing.
+I'm a PhD student in Real Estate and Urban Land Economics at the University of Wisconsin-Madison. 
 
-My geographic focus has evolved from the **Twin Cities**, where I was involved in local housing advocacy and served on the board of Sustain Saint Paul, to **Chicago**, where I now work as an economic research assistant and continue to write about neighborhood change and housing dynamics.
+I'm interested in housing markets, urban policy, and how cities change over time.
 
-My writing spans three modes: **quantitative research** that digs into demographic trends and housing data, **policy advocacy** that makes the case for specific reforms, and **broader commentary** on urban life and the intellectual questions that animate this work.
+
+Formerly, I lived in the Twin Cities, where I was involved in local housing policy work and wrote frequently about local housing issues. Then I lived in Chicago for two years, working as a research assistant at the Federal Reserve and continue to write about neighborhood change and housing dynamics.
+
+My previous writing spans three modes: **quantitative research** that digs into demographic trends and housing data, **policy advocacy** that makes the case for specific reforms, and **broader commentary** on urban life and the intellectual questions that animate this work.
 
 </section>
 
@@ -29,13 +32,9 @@ My writing spans three modes: **quantitative research** that digs into demograph
 
 ## Background
 
-I graduated from **Macalester College** in 2024 with a major in Economics and a minor Music. During my time in St. Paul, I became deeply engaged with Twin Cities housing policy, writing on these topics for a variety of local outlets. I also had first-hand engagement with state and local public policy, serving as a board member with Sustain Saint Paul, interning with local community development organizations, and volunteering in support of multiple urbanist-oriented policy efforts.
+I graduated from Macalester College in 2024 with a major in Economics and a minor in Music. During my time in St. Paul, I became deeply engaged with Twin Cities housing policy, writing on these topics for a variety of local media outlets. I also had first-hand engagement with state and local public policy, serving as a board member with Sustain Saint Paul, interning with local community development organizations, and volunteering in support of multiple urbanist-oriented policy efforts.
 
-I'm now based in Chicago, writing at the Substack [Pencilling Out](https://pencillingout.substack.com).
-
-In my day job, I'm a research assistant with the Financial Economics group at the Federal Reserve Bank of Chicago. I contribute to academic research projects focused on homeowners' insurance and mortgage access, as well as corporate finance. 
-
-The views expressed in articles and other content on this website are my own, and don't reflect the views of the Federal Reserve Bank of Chicago or the Federal Reserve System.
+While I was in Chicago, I started a Substack, [Pencilling Out](https://pencillingout.substack.com).
 
 </section>
 
@@ -128,7 +127,8 @@ The views expressed in articles and other content on this website are my own, an
   <a href="https://racketmn.com/how-st-pauls-new-loon-sculpture-is-and-isnt-like-chicagos-bean" target="_blank" rel="noopener">
     <img src="{{ '/assets/images/chart_gallery/loon_sculpture.webp' | relative_url }}" alt="Twin Cities public art">
     <div class="viz-overlay">
-      <p class="viz-title">Comparing Chicago's Bean to Twin Cities public art</p>
+      <p class="viz-title">How St. Paul’s New Loon Sculpture Is—and Isn’t—Like Chicago’s Bean
+</p>
       <p class="viz-publication">Racket</p>
     </div>
   </a>
