@@ -315,35 +315,42 @@
 .cv-section {
   margin-bottom: $spacing-2xl;
 
-  h2 {
+  h3 {
     font-size: $font-size-lg;
+    margin-top: 0;
+    margin-bottom: $spacing-md;
+    padding-bottom: $spacing-xs;
     border-bottom: 1px solid $color-border;
-    padding-bottom: $spacing-sm;
   }
 }
 
 .cv-entry {
-  margin-bottom: $spacing-lg;
+  margin-bottom: $spacing-md;
 
   &:last-child {
     margin-bottom: 0;
   }
 
-  h3 {
-    font-size: $font-size-base;
-    margin-bottom: $spacing-xs;
-  }
-
-  .cv-meta {
-    font-family: $font-sans;
-    font-size: $font-size-sm;
-    color: $color-text-muted;
-    margin-bottom: $spacing-sm;
-  }
-
-  p, ul {
+  p {
     font-size: $font-size-sm;
     color: $color-text-light;
+    margin-bottom: $spacing-xs;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  strong {
+    font-family: $font-sans;
+    color: $color-heading;
+  }
+
+  ul {
+    font-size: $font-size-sm;
+    color: $color-text-light;
+    margin-top: $spacing-xs;
+    margin-bottom: 0;
   }
 }
 

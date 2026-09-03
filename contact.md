@@ -41,9 +41,8 @@ Madison, WI
 <div class="cv-entry" markdown="1">
 
 **Measuring the Impact of Property Insurance Premiums on the Mortgage Market**
-*with Ralf Meisenzahl, Andy Polacek, and Shanthi Ramnath*
 
-Federal Reserve Bank of Chicago Working Paper No. 2026-01, February 2026. [Link](https://doi.org/10.21033/wp-2026-01)
+With Ralf Meisenzahl, Andy Polacek, and Shanthi Ramnath. Federal Reserve Bank of Chicago Working Paper No. 2026-01, February 2026. [Link](https://doi.org/10.21033/wp-2026-01)
 
 </div>
 
@@ -56,19 +55,19 @@ Federal Reserve Bank of Chicago Working Paper No. 2026-01, February 2026. [Link]
 <div class="cv-entry" markdown="1">
 
 **University of Wisconsin–Madison**
-*Ph.D. student, Real Estate and Urban Land Economics · Madison, WI · 2026–present*
+
+Ph.D. student, Real Estate and Urban Land Economics · Madison, WI · 2026–present
 
 </div>
 
 <div class="cv-entry" markdown="1">
 
 **Macalester College**
-*B.A., 2024 · St. Paul, MN*
 
-- **Major:** Economics
-- **Minor:** Music
+B.A., 2024 · St. Paul, MN · Major in Economics, minor in Music
 
 </div>
+
 </section>
 
 <section class="cv-section" markdown="1">
@@ -78,7 +77,8 @@ Federal Reserve Bank of Chicago Working Paper No. 2026-01, February 2026. [Link]
 <div class="cv-entry" markdown="1">
 
 **Research Assistant, Federal Reserve Bank of Chicago**
-*Chicago, IL · 2024–2026*
+
+Chicago, IL · 2024–2026
 
 Quantitative research support including data analysis, literature review, and statistical work.
 
@@ -87,7 +87,8 @@ Quantitative research support including data analysis, literature review, and st
 <div class="cv-entry" markdown="1">
 
 **Board Member, Sustain Saint Paul**
-*St. Paul, MN · 2022–2024*
+
+St. Paul, MN · 2022–2024
 
 Contributed to housing policy advocacy in St. Paul, including engagement with city planning processes and public testimony.
 
@@ -102,7 +103,8 @@ Contributed to housing policy advocacy in St. Paul, including engagement with ci
 <div class="cv-entry" markdown="1">
 
 **Minnesota Legislature Testimony**
-*February 2024*
+
+February 2024
 
 Testified on HF4246, state-level zoning reform legislation, before the Housing Finance and Policy Committee.
 
