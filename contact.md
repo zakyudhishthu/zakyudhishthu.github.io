@@ -32,21 +32,22 @@ Madison, WI
 
 ---
 
-## Publications
-
-My work has appeared in:
-
-- **[Pencilling Out](https://pencillingout.substack.com)** — My Substack on housing, cities, and urban economics
-- **[Streets.mn](https://streets.mn)** — Twin Cities urbanism publication
-- **[A City That Works](https://citythatworks.substack.com/)** — A popular blog focused on public policy in Chicago
-- **[Minnesota Reformer](https://minnesotareformer.com)** — State policy coverage
-- **Star Tribune** — Minneapolis–St. Paul newspaper
-- **Southwest Voices** — Southwest Minneapolis community publication
-- **Racket** — Twin Cities culture and news
-
----
-
 ## CV
+
+<section class="cv-section" markdown="1">
+
+### Working Papers
+
+<div class="cv-entry" markdown="1">
+
+**Measuring the Impact of Property Insurance Premiums on the Mortgage Market**
+*with Ralf Meisenzahl, Andy Polacek, and Shanthi Ramnath*
+
+Federal Reserve Bank of Chicago Working Paper No. 2026-01, February 2026. [Link](https://doi.org/10.21033/wp-2026-01)
+
+</div>
+
+</section>
 
 <section class="cv-section" markdown="1">
 
