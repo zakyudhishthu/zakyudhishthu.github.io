@@ -2,67 +2,68 @@
 .portfolio-filters {
   display: flex;
   flex-direction: column;
-  gap: $spacing-lg;
+  gap: $spacing-md;
   margin-bottom: $spacing-2xl;
-  padding: $spacing-lg;
-  background-color: $color-bg-alt;
-  border-radius: $radius-lg;
+  padding-bottom: $spacing-lg;
+  border-bottom: 1px solid $color-border;
 }
 
 .filter-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: $spacing-sm $spacing-md;
+
   label {
-    display: block;
     font-family: $font-sans;
     font-size: $font-size-sm;
-    font-weight: 500;
     color: $color-text-muted;
-    margin-bottom: $spacing-sm;
   }
 }
 
 .filter-buttons {
   display: flex;
   flex-wrap: wrap;
-  gap: $spacing-sm;
+  gap: $spacing-md;
 }
 
 .filter-btn {
-  padding: $spacing-sm $spacing-md;
+  padding: 0 0 2px 0;
   font-family: $font-sans;
   font-size: $font-size-sm;
-  font-weight: 500;
-  color: $color-text-light;
-  background-color: $color-bg;
-  border: 1px solid $color-border;
-  border-radius: $radius-md;
+  color: $color-text-muted;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
   cursor: pointer;
-  transition: all $transition-fast;
+  transition: color $transition-fast;
 
   &:hover {
-    border-color: $color-accent;
-    color: $color-accent;
+    color: $color-text;
   }
 
   &.active {
-    background-color: $color-primary;
-    border-color: $color-primary;
-    color: white;
+    color: $color-text;
+    font-weight: 600;
+    border-bottom-color: $color-primary;
   }
 }
 
 .search-box {
   input {
     width: 100%;
-    padding: $spacing-sm $spacing-md;
+    max-width: 22rem;
+    padding: $spacing-sm 0;
     font-family: $font-sans;
     font-size: $font-size-sm;
-    border: 1px solid $color-border;
-    border-radius: $radius-md;
+    border: none;
+    border-bottom: 1px solid $color-border-dark;
+    background: none;
     transition: border-color $transition-fast;
 
     &:focus {
       outline: none;
-      border-color: $color-accent;
+      border-bottom-color: $color-primary;
     }
 
     &::placeholder {
@@ -71,27 +72,19 @@
   }
 }
 
-// Portfolio Grid
+// Portfolio Grid — a plain list separated by rules
 .portfolio-grid {
-  display: grid;
-  gap: $spacing-lg;
+  display: flex;
+  flex-direction: column;
 }
 
 // Portfolio Item
 .portfolio-item {
-  padding: $spacing-lg;
-  background-color: $color-bg;
-  border: 1px solid $color-border;
-  border-radius: $radius-lg;
-  transition: all $transition-base;
+  padding: $spacing-lg 0;
+  border-top: 1px solid $color-border;
 
-  &:hover {
-    border-color: $color-border-dark;
-    box-shadow: $shadow-md;
-  }
-
-  &[data-featured="true"] {
-    border-left: 4px solid $color-accent;
+  &:first-child {
+    border-top: none;
   }
 
   &.hidden {
@@ -100,7 +93,7 @@
 }
 
 .portfolio-item-header {
-  margin-bottom: $spacing-sm;
+  margin-bottom: $spacing-xs;
 }
 
 .portfolio-item-title {
@@ -111,11 +104,12 @@
   line-height: $line-height-tight;
 
   a {
-    color: $color-primary;
+    color: $color-heading;
     text-decoration: none;
 
     &:hover {
       color: $color-accent;
+      text-decoration: underline;
     }
   }
 }
@@ -138,68 +132,47 @@
 .portfolio-item-description {
   font-size: $font-size-sm;
   color: $color-text-light;
-  margin-bottom: $spacing-md;
+  margin-bottom: $spacing-sm;
   line-height: $line-height-relaxed;
 }
 
 .portfolio-item-footer {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
+  align-items: baseline;
   gap: $spacing-sm;
 }
 
 .portfolio-item-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: $spacing-xs;
-}
-
-// Tags
-.tag {
-  display: inline-block;
-  padding: 0.15em 0.5em;
   font-family: $font-sans;
   font-size: $font-size-xs;
-  font-weight: 500;
-  border-radius: $radius-sm;
-  white-space: nowrap;
+  color: $color-text-muted;
+}
+
+// Tags — plain text, middot-separated
+.tag {
+  display: inline;
+  padding: 0;
+  font-family: $font-sans;
+  font-size: $font-size-xs;
+  color: $color-text-muted;
+
+  &:not(:last-child)::after {
+    content: "·";
+    margin: 0 0.4em;
+    color: $color-border-dark;
+  }
 }
 
 .tag-style {
-  color: white;
-
-  &.tag-quantitative {
-    background-color: $color-quantitative;
-  }
-
-  &.tag-policy {
-    background-color: $color-policy;
-  }
-
-  &.tag-commentary {
-    background-color: $color-commentary;
-  }
-}
-
-.tag-region {
-  background-color: $color-bg-alt;
   color: $color-text-light;
-  border: 1px solid $color-border;
-}
-
-.tag-topic {
-  background-color: transparent;
-  color: $color-text-muted;
-  border: 1px solid $color-border;
 }
 
 .featured-badge {
   font-family: $font-sans;
   font-size: $font-size-xs;
   font-weight: 600;
-  color: $color-accent;
+  color: $color-text-muted;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -248,10 +221,10 @@
   }
 }
 
-// Cards (for research areas, etc.)
+// Research areas, etc. — plain text blocks divided by a top rule
 .card-grid {
   display: grid;
-  gap: $spacing-lg;
+  gap: $spacing-lg $spacing-2xl;
 
   @media (min-width: $breakpoint-md) {
     grid-template-columns: repeat(2, 1fr);
@@ -259,12 +232,10 @@
 }
 
 .card {
-  padding: $spacing-lg;
-  background-color: $color-bg-alt;
-  border-radius: $radius-lg;
-  border: 1px solid $color-border;
+  padding-top: $spacing-md;
+  border-top: 1px solid $color-border;
 
-  h3 {
+  h3, h4 {
     font-size: $font-size-md;
     margin-top: 0;
     margin-bottom: $spacing-sm;
@@ -292,24 +263,24 @@
   }
 }
 
-// Skills list
+// Skills list — plain comma-separated line
 .skills-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: $spacing-sm;
   list-style: none;
   padding: 0;
   margin: 0;
+  font-family: $font-sans;
+  font-size: $font-size-sm;
+  color: $color-text-light;
+  line-height: $line-height-relaxed;
 }
 
 .skills-list li {
-  padding: $spacing-xs $spacing-md;
-  background-color: $color-bg-alt;
-  border: 1px solid $color-border;
-  border-radius: $radius-md;
-  font-family: $font-sans;
-  font-size: $font-size-sm;
+  display: inline;
   margin: 0;
+
+  &:not(:last-child)::after {
+    content: ", ";
+  }
 }
 
 // Contact info
@@ -346,7 +317,7 @@
 
   h2 {
     font-size: $font-size-lg;
-    border-bottom: 2px solid $color-primary;
+    border-bottom: 1px solid $color-border;
     padding-bottom: $spacing-sm;
   }
 }
@@ -379,15 +350,12 @@
 // Expandable methodology notes
 .methodology-note {
   margin: $spacing-lg 0;
-  border: 1px solid $color-border;
-  border-radius: $radius-md;
-  overflow: hidden;
+  border-left: 3px solid $color-border-dark;
 
   summary {
-    padding: $spacing-md $spacing-lg;
+    padding: $spacing-xs 0 $spacing-xs $spacing-lg;
     font-family: $font-sans;
     font-weight: 500;
-    background-color: $color-bg-alt;
     cursor: pointer;
     list-style: none;
 
@@ -397,16 +365,16 @@
 
     &::before {
       content: '+ ';
-      color: $color-accent;
+      color: $color-text-muted;
     }
   }
 
   &[open] summary::before {
-    content: '- ';
+    content: '– ';
   }
 
   .methodology-content {
-    padding: $spacing-lg;
+    padding: $spacing-sm 0 $spacing-sm $spacing-lg;
     font-size: $font-size-sm;
 
     p:last-child {
@@ -425,11 +393,9 @@
 }
 
 .featured-item {
-  padding: $spacing-lg;
-  background-color: $color-bg-alt;
-  border-radius: $radius-lg;
-  border-left: 4px solid $color-accent;
-  margin-bottom: $spacing-md;
+  padding: $spacing-lg 0;
+  border-top: 1px solid $color-border;
+  margin-bottom: 0;
 
   &:last-child {
     margin-bottom: 0;
@@ -441,7 +407,7 @@
     margin-bottom: $spacing-xs;
 
     a {
-      color: $color-primary;
+      color: $color-heading;
 
       &:hover {
         color: $color-accent;
@@ -481,21 +447,15 @@
 .viz-item {
   position: relative;
   overflow: hidden;
-  border-radius: $radius-md;
+  border-radius: $radius-sm;
   border: 1px solid $color-border;
-  background-color: $color-bg-alt;
-  transition: all $transition-base;
+  transition: border-color $transition-base;
 
   &:hover {
-    border-color: $color-accent;
-    box-shadow: $shadow-md;
+    border-color: $color-border-dark;
 
     .viz-overlay {
       opacity: 1;
-    }
-
-    img {
-      transform: scale(1.02);
     }
   }
 
@@ -509,7 +469,6 @@
     aspect-ratio: 4/3;
     object-fit: cover;
     display: block;
-    transition: transform $transition-base;
   }
 
   .viz-overlay {
@@ -553,7 +512,7 @@
     width: 100%;
     aspect-ratio: 4/3;
     object-fit: cover;
-    border-radius: $radius-md;
+    border-radius: $radius-sm;
     border: 1px solid $color-border;
   }
 

@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $font-sans;
   font-weight: 600;
   line-height: $line-height-tight;
-  color: $color-primary;
+  color: $color-heading;
   margin-top: 0;
   margin-bottom: $spacing-md;
 }
@@ -87,9 +87,9 @@ li {
 // Blockquotes
 blockquote {
   margin: $spacing-xl 0;
-  padding: $spacing-md $spacing-lg;
-  border-left: 4px solid $color-accent;
-  background-color: $color-bg-alt;
+  padding: 0 0 0 $spacing-lg;
+  border-left: 3px solid $color-border-dark;
+  color: $color-text-light;
   font-style: italic;
 
   p:last-child {
@@ -132,8 +132,7 @@ figure {
   margin: $spacing-xl 0;
 
   img {
-    border-radius: $radius-md;
-    box-shadow: $shadow-md;
+    border-radius: $radius-sm;
   }
 
   figcaption {
@@ -179,8 +178,8 @@ th, td {
 th {
   font-family: $font-sans;
   font-weight: 600;
-  color: $color-primary;
-  background-color: $color-bg-alt;
+  color: $color-heading;
+  border-bottom: 2px solid $color-border-dark;
 }
 
 // Utility classes
