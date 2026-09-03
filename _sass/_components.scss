@@ -292,22 +292,15 @@
   li {
     display: flex;
     align-items: center;
-    gap: $spacing-md;
-    padding: $spacing-md 0;
-    border-bottom: 1px solid $color-border;
-
-    &:last-child {
-      border-bottom: none;
-    }
+    gap: $spacing-sm;
+    padding: $spacing-xs 0;
+    font-family: $font-sans;
+    font-size: $font-size-sm;
 
     svg {
       flex-shrink: 0;
       color: $color-text-muted;
     }
-  }
-
-  a {
-    font-family: $font-sans;
   }
 }
 
