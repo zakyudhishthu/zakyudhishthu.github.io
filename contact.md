@@ -42,7 +42,7 @@ Madison, WI
 
 **Measuring the Impact of Property Insurance Premiums on the Mortgage Market**
 
-With Ralf Meisenzahl, Andy Polacek, and Shanthi Ramnath. Federal Reserve Bank of Chicago Working Paper No. 2026-01, February 2026. [Link](https://doi.org/10.21033/wp-2026-01)
+With Ralf Meisenzahl, Andy Polacek, and Shanthi Ramnath. [Federal Reserve Bank of Chicago Working Paper No. 2026-01](https://www.chicagofed.org/publications/working-papers/2026/2026-01), February 2026.
 
 </div>
 
