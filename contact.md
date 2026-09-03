@@ -64,7 +64,7 @@ My work has appeared in:
 *B.A., 2024 · St. Paul, MN*
 
 - **Major:** Economics
-- **Minors:** Statistics, Music
+- **Minor:** Music
 
 </div>
 </section>
