@@ -8,33 +8,23 @@ title: About
     <img src="{{ '/assets/images/headshot_09_2023.png' | relative_url }}" alt="Zak Yudhishthu" class="headshot">
     <div class="intro-text">
       <h1 class="home-name">Zak Yudhishthu</h1>
-      <p class="home-tagline">Researcher and writer interested in quantitative urban economics and housing policy. I try to combine data and policy analysis to understand how cities work, and how we can make them better.</p>
+      <p class="home-tagline">I'm a PhD student in Real Estate and Urban Land Economics at the University of Wisconsin-Madison. I'm interested in housing markets, urban policy, and how cities change over time.</p>
     </div>
   </div>
 </div>
 
 <section class="home-section" markdown="1">
 
-## What I Do
-
-I'm a PhD student in Real Estate and Urban Land Economics at the University of Wisconsin-Madison. 
-
-I'm interested in housing markets, urban policy, and how cities change over time.
-
-
-Formerly, I lived in the Twin Cities, where I was involved in local housing policy work and wrote frequently about local housing issues. Then I lived in Chicago for two years, working as a research assistant at the Federal Reserve and continuing to write about neighborhood change and housing dynamics.
-
-My writing spans three modes: **quantitative research** that digs into demographic trends and housing data, **policy advocacy** that makes the case for specific reforms, and **broader commentary** on urban life and the intellectual questions that animate this work.
-
-</section>
-
-<section class="home-section" markdown="1">
-
-## Background
+## About me
 
 I graduated from Macalester College in 2024 with a major in Economics and a minor in Music. During my time in St. Paul, I became deeply engaged with Twin Cities housing policy, writing on these topics for a variety of local media outlets. I also had first-hand engagement with state and local public policy, serving as a board member with Sustain Saint Paul, interning with local community development organizations, and volunteering in support of multiple urbanist-oriented policy efforts.
 
-While I was in Chicago, I started a Substack, [Pencilling Out](https://pencillingout.substack.com).
+I then lived in Chicago for two years working as a research assistant at the Federal Reserve. While I was in Chicago, I started a Substack about housing policy and urban economics [Pencilling Out](https://pencillingout.substack.com).
+
+My writing has often spanned three forms:
+- research-focused writing looking at demographic trends, housing data, and academic research
+- policy-focused writing making the case for specific reforms
+- broader commentary on urban life
 
 </section>
 
