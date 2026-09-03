@@ -26,7 +26,7 @@ permalink: /contact/
 </li>
 <li>
 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
-Chicago, IL
+Madison, WI
 </li>
 </ul>
 
@@ -36,7 +36,7 @@ Chicago, IL
 
 My work has appeared in:
 
-- **[Pencilling Out](https://pencillingout.substack.com)** — My Substack on housing, cities, and urban economics (537+ subscribers)
+- **[Pencilling Out](https://pencillingout.substack.com)** — My Substack on housing, cities, and urban economics
 - **[Streets.mn](https://streets.mn)** — Twin Cities urbanism publication
 - **[Minnesota Reformer](https://minnesotareformer.com)** — State policy coverage
 - **Star Tribune** — Minneapolis-St. Paul newspaper (op-ed)
@@ -53,12 +53,18 @@ My work has appeared in:
 
 <div class="cv-entry" markdown="1">
 
+**University of Wisconsin–Madison**
+*Ph.D. student, Real Estate and Urban Land Economics · Madison, WI · 2026–present*
+
+</div>
+
+<div class="cv-entry" markdown="1">
+
 **Macalester College**
 *B.A., 2024 · St. Paul, MN*
 
 - **Major:** Economics
 - **Minors:** Statistics, Music
-- Relevant coursework: Econometrics, Urban Economics, Statistical Modeling, Data Visualization
 
 </div>
 </section>
@@ -69,8 +75,8 @@ My work has appeared in:
 
 <div class="cv-entry" markdown="1">
 
-**Economic Research Assistant**
-*Chicago, IL · 2024–present*
+**Research Assistant, Federal Reserve Bank of Chicago**
+*Chicago, IL · 2024–2026*
 
 Quantitative research support including data analysis, literature review, and statistical work.
 
@@ -98,51 +104,6 @@ Contributed to housing policy advocacy in St. Paul, including engagement with ci
 
 Testified on HF4246, state-level zoning reform legislation, before the Housing Finance and Policy Committee.
 
-</div>
-
-</section>
-
-<section class="cv-section" markdown="1">
-
-### Technical Skills
-
-<ul class="skills-list">
-<li>R (tidyverse, ggplot2, sf, tidycensus)</li>
-<li>Statistical Analysis</li>
-<li>Hedonic Regression</li>
-<li>Census/ACS Data</li>
-<li>IPUMS NHGIS</li>
-<li>GIS & Spatial Analysis</li>
-<li>Data Visualization</li>
-<li>Git/GitHub</li>
-<li>Policy Writing</li>
-</ul>
-
-</section>
-
-<section class="cv-section" markdown="1">
-
-### Geographic Expertise
-
-<div class="two-column" markdown="1">
-<div markdown="1">
-
-**Twin Cities (extensive)**
-- Minneapolis zoning and development
-- St. Paul housing policy
-- Regional housing markets
-- State-level policy environment
-
-</div>
-<div markdown="1">
-
-**Chicago (expanding)**
-- Neighborhood demographics
-- Zoning institutions
-- Community area analysis
-- Aldermanic system
-
-</div>
 </div>
 
 </section>
