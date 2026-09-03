@@ -8,10 +8,131 @@ title: About
     <img src="{{ '/assets/images/headshot_09_2023.png' | relative_url }}" alt="Zak Yudhishthu" class="headshot">
     <div class="intro-text">
       <h1 class="home-name">Zak Yudhishthu</h1>
-      <p class="home-tagline">I'm a PhD student in Real Estate and Urban Land Economics at the University of Wisconsin-Madison. I'm interested in housing markets, urban policy, and how cities change over time.</p>
+      <p class="home-tagline">I'm a PhD student in Real Estate and Urban Land Economics at the University of Wisconsin-Madison. I study questions in urban economics, public economics, and household finance. I'm particularly interested in housing markets, urban policy, and how cities change over time.</p>
     </div>
   </div>
 </div>
+
+<section class="home-section" markdown="1">
+
+<h2>CV</h2>
+
+<section class="cv-section" markdown="1">
+
+### Working Papers
+
+<div class="cv-entry" markdown="1">
+
+**Measuring the Impact of Property Insurance Premiums on the Mortgage Market**
+
+With Ralf Meisenzahl, Andy Polacek, and Shanthi Ramnath. [Federal Reserve Bank of Chicago Working Paper No. 2026-01](https://www.chicagofed.org/publications/working-papers/2026/2026-01), February 2026.
+
+</div>
+
+</section>
+
+<section class="cv-section" markdown="1">
+
+### Presentations
+
+<div class="cv-entry" markdown="1">
+
+**"Analyzing for Buildability: Lessons from the Twin Cities' Zoning Reforms"**
+
+YIMBYtown housing policy conference, 2025
+
+</div>
+
+<div class="cv-entry" markdown="1">
+
+**Federal Reserve Bank of Chicago, Research Assistant seminar**
+
+Undergraduate research on the local rental-price effects of new affordable housing, 2024
+
+</div>
+
+</section>
+
+<section class="cv-section" markdown="1">
+
+### Education
+
+<div class="cv-entry" markdown="1">
+
+**University of Wisconsin–Madison**
+
+Ph.D. student, Real Estate and Urban Land Economics · Madison, WI · 2026–present
+
+</div>
+
+<div class="cv-entry" markdown="1">
+
+**Macalester College**
+
+B.A., 2024 · St. Paul, MN · Major in Economics, minor in Music
+
+</div>
+
+</section>
+
+<section class="cv-section" markdown="1">
+
+### Teaching
+
+<div class="cv-entry" markdown="1">
+
+**Course Preceptor, Macalester College Economics Department**
+
+St. Paul, MN · 2022, 2023
+
+Teaching assistant for courses in urban economics and the economics of climate change. Helped develop the urban economics curriculum, delivered a course lecture, held weekly office hours, and graded coursework.
+
+</div>
+
+</section>
+
+<section class="cv-section" markdown="1">
+
+### Experience
+
+<div class="cv-entry" markdown="1">
+
+**Research Assistant, Federal Reserve Bank of Chicago**
+
+Chicago, IL · 2024–2026
+
+Quantitative research support including data analysis, literature review, and statistical work.
+
+</div>
+
+<div class="cv-entry" markdown="1">
+
+**Board Member, Sustain Saint Paul**
+
+St. Paul, MN · 2022–2024
+
+Contributed to housing policy advocacy in St. Paul, including engagement with city planning processes and public testimony.
+
+</div>
+
+</section>
+
+<section class="cv-section" markdown="1">
+
+### Awards
+
+<div class="cv-entry" markdown="1">
+
+- Robert L. Bunting Prize in Economics, Macalester College Economics Department (2024)
+- Third place, Minnesota Economics Association Undergraduate Student Paper Contest (2024)
+- First place, editorial writing, Minnesota Society of Professional Journalists (2024)
+- Second place, columnist category, Minnesota Newspaper Association, college division (2024)
+
+</div>
+
+</section>
+
+</section>
 
 <section class="home-section" markdown="1">
 
