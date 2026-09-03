@@ -364,34 +364,8 @@
 
   @media (min-width: $breakpoint-md) {
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
   }
-}
-
-.footer-bio {
-  text-align: center;
-
-  @media (min-width: $breakpoint-md) {
-    text-align: left;
-  }
-}
-
-.footer-name {
-  font-family: $font-sans;
-  font-weight: 600;
-  color: $color-primary;
-  margin-bottom: $spacing-xs;
-}
-
-.footer-tagline {
-  color: $color-text-light;
-  margin-bottom: $spacing-xs;
-}
-
-.footer-location {
-  font-size: $font-size-sm;
-  color: $color-text-muted;
-  margin-bottom: 0;
 }
 
 .footer-links {
