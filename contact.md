@@ -38,8 +38,9 @@ My work has appeared in:
 
 - **[Pencilling Out](https://pencillingout.substack.com)** — My Substack on housing, cities, and urban economics
 - **[Streets.mn](https://streets.mn)** — Twin Cities urbanism publication
+- **[A City That Works](https://citythatworks.substack.com/)** — A popular blog focused on public policy in Chicago
 - **[Minnesota Reformer](https://minnesotareformer.com)** — State policy coverage
-- **Star Tribune** — Minneapolis-St. Paul newspaper (op-ed)
+- **Star Tribune** — Minneapolis–St. Paul newspaper
 - **Southwest Voices** — Southwest Minneapolis community publication
 - **Racket** — Twin Cities culture and news
 
