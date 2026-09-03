@@ -190,35 +190,19 @@
   margin-bottom: 0;
 }
 
-// Hero banner
-.hero-banner {
-  width: 100%;
-  overflow: hidden;
-
-  img {
-    width: 100%;
-    height: 38vh;
-    max-height: 340px;
-    min-height: 190px;
-    object-fit: cover;
-    object-position: center 83%;
-    display: block;
-  }
-}
-
 // Home page specific
 .home-content {
   max-width: $max-width-content;
   margin: 0 auto;
-  padding: $spacing-xl $spacing-lg;
+  padding: $spacing-2xl $spacing-lg;
 
   @media (min-width: $breakpoint-md) {
-    padding: $spacing-2xl $spacing-xl;
+    padding: $spacing-3xl $spacing-xl;
   }
 }
 
 .home-intro {
-  margin-bottom: $spacing-3xl;
+  margin-bottom: $spacing-2xl;
 }
 
 // Intro with headshot photo
@@ -226,27 +210,28 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: $spacing-xl;
+  gap: $spacing-lg;
   text-align: center;
 
   @media (min-width: $breakpoint-md) {
     flex-direction: row;
+    align-items: flex-start;
     text-align: left;
-    gap: $spacing-2xl;
+    gap: $spacing-xl;
   }
 }
 
 .headshot {
-  width: 160px;
-  height: 160px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
   object-fit: cover;
   border: 1px solid $color-border;
   flex-shrink: 0;
 
   @media (min-width: $breakpoint-md) {
-    width: 180px;
-    height: 180px;
+    width: 150px;
+    height: 150px;
   }
 }
 
@@ -303,18 +288,19 @@
 }
 
 .home-name {
-  font-size: $font-size-3xl;
-  margin-bottom: $spacing-md;
+  font-size: $font-size-2xl;
+  margin-bottom: $spacing-sm;
 
   @media (min-width: $breakpoint-md) {
-    font-size: $font-size-4xl;
+    font-size: $font-size-3xl;
   }
 }
 
 .home-tagline {
-  font-size: $font-size-xl;
+  font-size: $font-size-md;
   color: $color-text-light;
-  line-height: $line-height-relaxed;
+  line-height: $line-height-base;
+  margin-bottom: 0;
 }
 
 .home-section {

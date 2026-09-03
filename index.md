@@ -137,3 +137,8 @@ I'm always interested in chatting about housing policy, urban economics, and dat
 For professional inquiries, reach me at [zyudhishthu@yahoo.com](mailto:zyudhishthu@yahoo.com).
 
 </section>
+
+<figure class="page-artwork-large">
+  <img src="{{ '/assets/images/hero-banner.jpeg' | relative_url }}" alt="Alexander Calder's Flamingo sculpture in Chicago's Federal Plaza">
+  <figcaption>Alexander Calder, <em>Flamingo</em> (1974), Federal Plaza, Chicago</figcaption>
+</figure>
