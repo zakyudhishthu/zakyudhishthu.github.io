@@ -22,7 +22,7 @@ I'm a PhD student in Real Estate and Urban Land Economics at the University of W
 I'm interested in housing markets, urban policy, and how cities change over time.
 
 
-Formerly, I lived in the Twin Cities, where I was involved in local housing policy work and wrote frequently about local housing issues. Then I lived in Chicago for two years, working as a research assistant at the Federal Reserve. I continue to write about neighborhood change and housing dynamics.
+Formerly, I lived in the Twin Cities, where I was involved in local housing policy work and wrote frequently about local housing issues. Then I lived in Chicago for two years, working as a research assistant at the Federal Reserve and continuing to write about neighborhood change and housing dynamics.
 
 My writing spans three modes: **quantitative research** that digs into demographic trends and housing data, **policy advocacy** that makes the case for specific reforms, and **broader commentary** on urban life and the intellectual questions that animate this work.
 
