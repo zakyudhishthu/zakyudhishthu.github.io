@@ -1,6 +1,9 @@
 ---
 layout: home
-title: About
+description: >-
+  Personal site of Zak Yudhishthu, a PhD student in Real Estate and Urban Land
+  Economics at the University of Wisconsin–Madison. Research in urban economics,
+  public economics, and household finance; writing on housing markets and cities.
 ---
 
 <div class="home-intro">

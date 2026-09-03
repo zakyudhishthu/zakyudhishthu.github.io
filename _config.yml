@@ -1,10 +1,27 @@
 # Site Settings
 title: Zak Yudhishthu
-description: Housing policy analyst and writer specializing in quantitative urban economics
+description: >-
+  Zak Yudhishthu is a PhD student in Real Estate and Urban Land Economics at the
+  University of Wisconsin–Madison, studying urban economics, public economics,
+  and household finance, with a focus on housing markets and urban policy.
 author: Zak Yudhishthu
 email: zyudhishthu@yahoo.com
 url: "https://zakyudhishthu.github.io"
 baseurl: ""
+lang: en_US
+
+# SEO / structured data (jekyll-seo-tag)
+social:
+  name: Zak Yudhishthu
+  links:
+    - https://twitter.com/zyudhishthu
+    - https://bsky.app/profile/zyudhishthu.bsky.social
+    - https://pencillingout.substack.com
+    - https://github.com/zakyudhishthu
+    - https://www.chicagofed.org/people/y/yudhishthu-zakary
+twitter:
+  username: zyudhishthu
+  card: summary
 
 # Social Links
 twitter_username: zyudhishthu
@@ -12,7 +29,7 @@ bluesky_username: zyudhishthu
 substack_url: https://pencillingout.substack.com
 
 # Location
-location: Chicago, IL
+location: Madison, WI
 
 # Build Settings
 markdown: kramdown
