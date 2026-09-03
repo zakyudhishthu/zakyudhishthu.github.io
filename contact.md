@@ -62,9 +62,9 @@ YIMBYtown housing policy conference, 2025
 
 <div class="cv-entry" markdown="1">
 
-**"Supply and Demand in My Backyard: How New Affordable Housing Affects Nearby Rental Prices"**
+**Federal Reserve Bank of Chicago, Research Assistant seminar**
 
-Federal Reserve Bank of Chicago, Research Assistant seminar, 2024
+Undergraduate research on the local rental-price effects of new affordable housing, 2024
 
 </div>
 
@@ -87,6 +87,22 @@ Ph.D. student, Real Estate and Urban Land Economics · Madison, WI · 2026–pre
 **Macalester College**
 
 B.A., 2024 · St. Paul, MN · Major in Economics, minor in Music
+
+</div>
+
+</section>
+
+<section class="cv-section" markdown="1">
+
+### Teaching
+
+<div class="cv-entry" markdown="1">
+
+**Course Preceptor, Macalester College Economics Department**
+
+St. Paul, MN · 2022, 2023
+
+Teaching assistant for courses in urban economics and the economics of climate change. Helped develop the urban economics curriculum, delivered a course lecture, held weekly office hours, and graded coursework.
 
 </div>
 
@@ -125,7 +141,7 @@ Contributed to housing policy advocacy in St. Paul, including engagement with ci
 <div class="cv-entry" markdown="1">
 
 - Robert L. Bunting Prize in Economics, Macalester College Economics Department (2024)
-- Third place, Minnesota Economics Association Undergraduate Student Paper Contest, senior thesis category (2024)
+- Third place, Minnesota Economics Association Undergraduate Student Paper Contest (2024)
 - First place, editorial writing, Minnesota Society of Professional Journalists (2024)
 - Second place, columnist category, Minnesota Newspaper Association, college division (2024)
 
