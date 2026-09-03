@@ -35,7 +35,8 @@ Use the filters to explore by style, region, or search for specific topics.
 
 <!-- Portfolio Grid -->
 <div class="portfolio-grid">
-  {% for item in site.data.writing %}
+  {% assign writing_sorted = site.data.writing | sort: "date" | reverse %}
+  {% for item in writing_sorted %}
   {% include portfolio-item.html item=item %}
   {% endfor %}
 </div>
