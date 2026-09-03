@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Writing & Research
-subtitle: Policy analysis, research, and commentary on housing and cities
+title: Public writing
 permalink: /writing/
 ---
 

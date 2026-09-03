@@ -8,6 +8,17 @@
 # QUANTITATIVE ANALYSIS & RESEARCH
 # =============================================================================
 
+- title: "Can new studio apartments open more homes for families?"
+  publication: Pencilling Out
+  date: 2026-05-12
+  url: "https://pencillingout.substack.com/p/can-new-studio-apartments-open-more"
+  description: "Research review and data analysis on whether adding small studio units helps open up larger homes for families through moving chains."
+  style: Quantitative
+  region: Chicago
+  topics:
+    - Family Housing
+    - Missing Middle
+
 - title: "Chicago's downtown family boom"
   publication: Pencilling Out
   date: 2025-11-01
@@ -114,6 +125,29 @@
 # =============================================================================
 # POLICY ADVOCACY & ARGUMENTATION
 # =============================================================================
+
+- title: "Minneapolis needs to reduce minimum lot sizes"
+  publication: Pencilling Out
+  date: 2026-05-21
+  url: "https://pencillingout.substack.com/p/minneapolis-needs-to-reduce-minimum"
+  description: "Argues that lowering Minneapolis's minimum lot size would make homeownership more affordable, drawing on evidence from cities that have already made the change."
+  style: Policy
+  region: Twin Cities
+  topics:
+    - Lot Size
+    - Zoning Reform
+
+- title: "Small Lots and the Case for Single Stair Reform"
+  publication: A City That Works
+  date: 2026-04-28
+  url: "https://citythatworks.substack.com/p/small-lots-and-the-case-for-single"
+  description: "Co-authored with Alex Montero. Argues that allowing single-stair apartment buildings would unlock family-sized housing on Chicago's narrow lots, citing safety records from peer cities."
+  style: Policy
+  region: Chicago
+  topics:
+    - Single Stair
+    - Zoning Reform
+    - Missing Middle
 
 - title: "St. Paul needs to reform its rent stabilization policy to revive development"
   publication: Minnesota Reformer
@@ -306,6 +340,43 @@
 # =============================================================================
 # URBAN LIFE & COMMENTARY
 # =============================================================================
+
+- title: "Notes on moving from policy advocacy to research"
+  publication: Pencilling Out
+  date: 2026-08-20
+  url: "https://pencillingout.substack.com/p/notes-on-moving-from-policy-advocacy"
+  description: "Reflection on shifting from housing policy advocacy toward academic research as a PhD student, and what changes in the move."
+  style: Commentary
+  region: Comparative
+  topics: []
+
+- title: "When America's downtowns ruled the world"
+  publication: Pencilling Out
+  date: 2026-03-27
+  url: "https://pencillingout.substack.com/p/when-americas-downtowns-ruled-the"
+  description: "Review of Robert Fogelson's Downtown, tracing how American central business districts rose and what that history implies for cities now."
+  style: Commentary
+  region: Comparative
+  topics: []
+
+- title: "Life next to the great urban barrier"
+  publication: Pencilling Out
+  date: 2026-03-10
+  url: "https://pencillingout.substack.com/p/life-next-to-the-great-urban-barrier"
+  description: "Essay on what it is like to live alongside an urban expressway, and how large infrastructure shapes daily neighborhood life."
+  style: Commentary
+  region: Chicago
+  topics:
+    - Transportation
+
+- title: "Reflections on a year of reading Chicago"
+  publication: Pencilling Out
+  date: 2026-01-22
+  url: "https://pencillingout.substack.com/p/reflections-on-a-year-of-reading"
+  description: "A tour through Chicago's urban history and literature after a year of reading about the city."
+  style: Commentary
+  region: Chicago
+  topics: []
 
 - title: "New Research Highlights the Problems of Urban Freeways"
   publication: Streets.mn
