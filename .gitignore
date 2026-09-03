@@ -1,20 +1,39 @@
-# Jekyll build output
+# Jekyll build files
 _site/
+.sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 
 # Ruby / Bundler
+Gemfile.lock
 vendor/
 .bundle/
 
 # macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Environment
+.env
+.env.local
+.claude/
 
 # R
 .Rhistory
 .RData
 .Rproj.user/
-
-# Editor
-.vscode/
-*.swp
