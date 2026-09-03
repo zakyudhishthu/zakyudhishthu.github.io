@@ -37,3 +37,7 @@ vendor/
 .Rhistory
 .RData
 .Rproj.user/
+
+# Source docs kept in the repo folder but not published
+/*.pdf
+/*.docx

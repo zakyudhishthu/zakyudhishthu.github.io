@@ -50,6 +50,28 @@ With Ralf Meisenzahl, Andy Polacek, and Shanthi Ramnath. [Federal Reserve Bank o
 
 <section class="cv-section" markdown="1">
 
+### Presentations
+
+<div class="cv-entry" markdown="1">
+
+**"Analyzing for Buildability: Lessons from the Twin Cities' Zoning Reforms"**
+
+YIMBYtown housing policy conference, 2025
+
+</div>
+
+<div class="cv-entry" markdown="1">
+
+**"Supply and Demand in My Backyard: How New Affordable Housing Affects Nearby Rental Prices"**
+
+Federal Reserve Bank of Chicago, Research Assistant seminar, 2024
+
+</div>
+
+</section>
+
+<section class="cv-section" markdown="1">
+
 ### Education
 
 <div class="cv-entry" markdown="1">
@@ -91,6 +113,21 @@ Quantitative research support including data analysis, literature review, and st
 St. Paul, MN · 2022–2024
 
 Contributed to housing policy advocacy in St. Paul, including engagement with city planning processes and public testimony.
+
+</div>
+
+</section>
+
+<section class="cv-section" markdown="1">
+
+### Awards
+
+<div class="cv-entry" markdown="1">
+
+- Robert L. Bunting Prize in Economics, Macalester College Economics Department (2024)
+- Third place, Minnesota Economics Association Undergraduate Student Paper Contest, senior thesis category (2024)
+- First place, editorial writing, Minnesota Society of Professional Journalists (2024)
+- Second place, columnist category, Minnesota Newspaper Association, college division (2024)
 
 </div>
 
